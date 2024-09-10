@@ -1,1 +1,2 @@
-Test
+Exercise-client -> react app (frontend)
+api -> express app (backend)
